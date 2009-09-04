@@ -5,3 +5,4 @@ config/database.yml
 doc/api
 doc/app
 db/*.sqlite3
+failsafe.tmproj
